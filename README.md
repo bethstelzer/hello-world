@@ -1,2 +1,2 @@
 # hello-world
-This will be used for testing
+This README will have been changed from the 'readme-edit' branch.
